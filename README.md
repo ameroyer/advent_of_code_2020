@@ -65,6 +65,13 @@ People use them as a speed contest, interview prep, company training, university
 </table>
 
 
+**Visualizations**
+
+| Day 3 | Day 4 | Day 5 |
+| ----- | ----- | ----- |
+| ![Day3 animation](viz/day03.gif) | | |
+
+
 **Past editions**
 
  * [Advent of Code 2019 (Python)](https://github.com/ameroyer/advent_of_code_2019)
