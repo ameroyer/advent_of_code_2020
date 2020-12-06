@@ -70,7 +70,9 @@ People use them as a speed contest, interview prep, company training, university
 | Day 3 | Day 4 |
 | ----- | ----- | 
 | ![Day3 animation](viz/day03.gif) | ![Day4 animation](viz/day04.gif) |
-| Day 5 | |
+
+| Day 5 | 
+| ----- |
 | ![Day5 animation](viz/day05.gif)| |
 
 
